@@ -1,4 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1494598057387">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1494684332101">
+  <folder name="assets">
+    <file name="20a-head-v2.stl" crc="207528000" seo="true" mt="1494684088000"/>
+    <file name="20a-body.stl" crc="3874167236" seo="true" mt="1494684076000"/>
+  </folder>
   <folder name="images">
     <file name="u94-4.png" crc="3829170250" ref="index"/>
     <file name="u202-4.png" crc="55136007" ref="index"/>
@@ -18,7 +22,7 @@
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="22124247" ref="index"/>
-    <file name="01.css" crc="165549163" ref="01"/>
+    <file name="01.css" crc="4183429518" ref="01"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01"/>
@@ -29,5 +33,5 @@
     <file name="require.js" crc="4234670167" ref="index:01"/>
   </folder>
   <file name="index.html" crc="285269930" seo="true" mt="1494595625368" redirect="true"/>
-  <file name="01.html" crc="490079077" seo="true" mt="1494598031932" redirect="true"/>
+  <file name="01.html" crc="272229119" seo="true" mt="1494684318590" redirect="true"/>
 </manifest>
