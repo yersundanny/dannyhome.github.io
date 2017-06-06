@@ -1,37 +1,94 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1494684332101">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1496768565144">
   <folder name="assets">
-    <file name="20a-head-v2.stl" crc="207528000" seo="true" mt="1494684088000"/>
-    <file name="20a-body.stl" crc="3874167236" seo="true" mt="1494684076000"/>
+    <file name="20a-head-v2.stl" crc="207528000" seo="true" mt="1494684332000"/>
+    <file name="20a-body.stl" crc="3874167236" seo="true" mt="1494684332000"/>
   </folder>
   <folder name="images">
-    <file name="u94-4.png" crc="3829170250" ref="index"/>
-    <file name="u202-4.png" crc="55136007" ref="index"/>
-    <file name="u113-4.png" crc="3786650470" ref="index"/>
-    <file name="u125-4.png" crc="142172675" ref="index"/>
-    <file name="u119-4.png" crc="3851505034" ref="index"/>
     <file name="rktfor.gif" crc="4004709959" seo="true" ref="01">
       <caption webpage="01" alt=""/>
     </file>
     <file name="8gco2.jpg" crc="4244743527" seo="true" ref="01">
       <caption webpage="01" alt=""/>
     </file>
-    <file name="toolchain.png" crc="6795115" seo="true" ref="01">
+    <file name="toolchain.png" crc="210424805" seo="true" ref="01">
       <caption webpage="01" alt=""/>
+    </file>
+    <file name="hair-in-oz.jpg" crc="4277274377" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="fm25-no-loose-clothing-safety-sign.jpg" crc="211831999" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="michael-prince-for-forbes1-17271.jpg" crc="3844243852" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u671-4.png" crc="4158003204" ref="02"/>
+    <file name="main-qimg-57d9f2d9124f18b4efd7aad93da43002-c.jpg" crc="4228007637" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="shutterstock_294977321.jpg" crc="4254351700" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="3861239966" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u690-4.png" crc="4245826329" ref="02"/>
+    <file name="diagram-lathe.jpg" crc="4236977727" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="metal centre lathe machine labelled all parts schematic actual.jpg" crc="448796633" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u763-4.png" crc="3814895491" ref="02"/>
+    <file name="u773-4.png" crc="157445365" ref="02"/>
+    <file name="u779-6.png" crc="382306089" ref="02"/>
+    <file name="u791-6.png" crc="26586139" ref="02"/>
+    <file name="u803-6.png" crc="308458038" ref="02"/>
+    <file name="u815-4.png" crc="4143985198" ref="02"/>
+    <file name="u694-4.png" crc="3829990979" ref="02"/>
+    <file name="tools.gif" crc="414364841" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="faceoff14a.jpg" crc="3827652821" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u824-4.png" crc="261013836" ref="02"/>
+    <file name="workflow.jpg" crc="4219654855" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u840-6.png" crc="3992706875" ref="02"/>
+    <file name="middle-crop-u827.jpg" crc="429213414" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u866-8.png" crc="424237405" ref="02"/>
+    <file name="lftfile.jpg" crc="103560829" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="u884-8.png" crc="222553143" ref="02"/>
+    <file name="polshok.jpg" crc="388036993" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="polshnok.jpg" crc="3957868128" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
     </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="22124247" ref="index"/>
-    <file name="01.css" crc="4183429518" ref="01"/>
+    <file name="index.css" crc="197635175" ref="index"/>
+    <file name="01.css" crc="3787507130" ref="01"/>
+    <file name="nomq_index.css" crc="457278692" ref="index"/>
+    <file name="02.css" crc="386472882" ref="02"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01"/>
-    <file name="museutils.js" crc="4232573551" ref="index:01"/>
-    <file name="whatinput.js" crc="86476730" ref="index:01"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:01"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:01"/>
-    <file name="require.js" crc="4234670167" ref="index:01"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01:02"/>
+    <file name="museutils.js" crc="4232573551" ref="index:01:02"/>
+    <file name="whatinput.js" crc="86476730" ref="index:01:02"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:01:02"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:01:02"/>
+    <file name="require.js" crc="4234670167" ref="index:01:02"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
   </folder>
-  <file name="index.html" crc="285269930" seo="true" mt="1494595625368" redirect="true"/>
-  <file name="01.html" crc="272229119" seo="true" mt="1494684318590" redirect="true"/>
+  <file name="index.html" crc="3893802417" seo="true" mt="1496768479820" redirect="true"/>
+  <file name="01.html" crc="20256185" seo="true" mt="1496760083935" redirect="true"/>
+  <file name="02.html" crc="214332531" seo="true" mt="1496768556500" redirect="true"/>
 </manifest>

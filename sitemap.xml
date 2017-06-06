@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yersun.com/index.html</loc>
-    <lastmod>2017-05-12</lastmod>
+    <lastmod>2017-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yersun.com/01.html</loc>
-    <lastmod>2017-05-13</lastmod>
+    <lastmod>2017-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,13 +22,64 @@
     </image:image>
   </url>
   <url>
-    <loc>http://yersun.com/assets/20a-body.stl</loc>
+    <loc>http://yersun.com/02.html</loc>
+    <lastmod>2017-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yersun.com/images/hair-in-oz.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/fm25-no-loose-clothing-safety-sign.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/michael-prince-for-forbes1-17271.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/main-qimg-57d9f2d9124f18b4efd7aad93da43002-c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/shutterstock_294977321.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/maxresdefault.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/diagram-lathe.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/metal%20centre%20lathe%20machine%20labelled%20all%20parts%20schematic%20actual.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/tools.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/faceoff14a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/workflow.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/middle-crop-u827.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/lftfile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/polshok.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yersun.com/images/polshnok.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yersun.com/assets/20a-head-v2.stl</loc>
     <lastmod>2017-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yersun.com/assets/20a-head-v2.stl</loc>
+    <loc>http://yersun.com/assets/20a-body.stl</loc>
     <lastmod>2017-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
