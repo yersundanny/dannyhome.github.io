@@ -1,7 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1496768565144">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1497807978182">
   <folder name="assets">
     <file name="20a-head-v2.stl" crc="207528000" seo="true" mt="1494684332000"/>
     <file name="20a-body.stl" crc="3874167236" seo="true" mt="1494684332000"/>
+    <file name="64641.pdf" crc="282082521" seo="true" mt="1496761720000"/>
   </folder>
   <folder name="images">
     <file name="rktfor.gif" crc="4004709959" seo="true" ref="01">
@@ -71,13 +72,20 @@
     <file name="polshnok.jpg" crc="3957868128" seo="true" ref="02">
       <caption webpage="02" alt=""/>
     </file>
+    <file name="u966-4.png" crc="3770155300" ref="02"/>
+    <file name="64641_page_1.jpg" crc="4281215719" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
+    <file name="64641_page_3.jpg" crc="4193583728" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="197635175" ref="index"/>
     <file name="01.css" crc="3787507130" ref="01"/>
     <file name="nomq_index.css" crc="457278692" ref="index"/>
-    <file name="02.css" crc="386472882" ref="02"/>
+    <file name="02.css" crc="369539094" ref="02"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01:02"/>
@@ -90,5 +98,5 @@
   </folder>
   <file name="index.html" crc="3893802417" seo="true" mt="1496768479820" redirect="true"/>
   <file name="01.html" crc="20256185" seo="true" mt="1496760083935" redirect="true"/>
-  <file name="02.html" crc="214332531" seo="true" mt="1496768556500" redirect="true"/>
+  <file name="02.html" crc="397191485" seo="true" mt="1497805715817" redirect="true"/>
 </manifest>
