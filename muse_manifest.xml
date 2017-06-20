@@ -1,8 +1,24 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1497965918612">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yersun.com" resolutions="1x" timestamp="1497966656471">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="02.css" crc="117844607" ref="02"/>
+    <file name="01.css" crc="3787507130" ref="01"/>
+    <file name="index.css" crc="4005610672" ref="index"/>
+    <file name="nomq_index.css" crc="4263811371" ref="index"/>
+  </folder>
   <folder name="assets">
     <file name="20a-head-v2.stl" crc="207528000" seo="true" mt="1494684332000"/>
     <file name="20a-body.stl" crc="3874167236" seo="true" mt="1494684332000"/>
     <file name="64641.pdf" crc="282082521" seo="true" mt="1496761720000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01:02"/>
+    <file name="museutils.js" crc="4232573551" ref="index:01:02"/>
+    <file name="whatinput.js" crc="86476730" ref="index:01:02"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:01:02"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:01:02"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:01:02"/>
   </folder>
   <folder name="images">
     <file name="rktfor.gif" crc="4004709959" seo="true" ref="01">
@@ -21,10 +37,6 @@
       <caption webpage="02" alt=""/>
     </file>
     <file name="michael-prince-for-forbes1-17271.jpg" crc="381510714" seo="true" ref="02">
-      <caption webpage="02" alt=""/>
-    </file>
-    <file name="u671-4.png" crc="3990702896" ref="02"/>
-    <file name="main-qimg-57d9f2d9124f18b4efd7aad93da43002-c.jpg" crc="4228007637" seo="true" ref="02">
       <caption webpage="02" alt=""/>
     </file>
     <file name="shutterstock_294977321.jpg" crc="182049026" seo="true" ref="02">
@@ -46,7 +58,7 @@
     <file name="u791-6.png" crc="212916256" ref="02"/>
     <file name="u803-6.png" crc="3989722882" ref="02"/>
     <file name="u815-4.png" crc="4109542609" ref="02"/>
-    <file name="u694-4.png" crc="470746270" ref="02"/>
+    <file name="u694-4.png" crc="516166456" ref="02"/>
     <file name="tools.gif" crc="414364841" seo="true" ref="02">
       <caption webpage="02" alt=""/>
     </file>
@@ -61,12 +73,6 @@
     <file name="middle-crop-u827.jpg" crc="457117170" seo="true" ref="02">
       <caption webpage="02" alt=""/>
     </file>
-    <file name="lftfile.jpg" crc="103560829" seo="true" ref="02">
-      <caption webpage="02" alt=""/>
-    </file>
-    <file name="polshok.jpg" crc="3970642375" seo="true" ref="02">
-      <caption webpage="02" alt=""/>
-    </file>
     <file name="u966-4.png" crc="134911463" ref="02"/>
     <file name="64641_page_1.jpg" crc="475148485" seo="true" ref="02">
       <caption webpage="02" alt=""/>
@@ -74,26 +80,8 @@
     <file name="64641_page_3.jpg" crc="4274580294" seo="true" ref="02">
       <caption webpage="02" alt=""/>
     </file>
-    <file name="u866-7.png" crc="4132172633" ref="02"/>
-    <file name="u884-7.png" crc="206127411" ref="02"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="197635175" ref="index"/>
-    <file name="01.css" crc="3787507130" ref="01"/>
-    <file name="nomq_index.css" crc="457278692" ref="index"/>
-    <file name="02.css" crc="4147614900" ref="02"/>
-  </folder>
-  <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:01:02"/>
-    <file name="museutils.js" crc="4232573551" ref="index:01:02"/>
-    <file name="whatinput.js" crc="86476730" ref="index:01:02"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:01:02"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:01:02"/>
-    <file name="require.js" crc="4234670167" ref="index:01:02"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-  </folder>
-  <file name="index.html" crc="3893802417" seo="true" mt="1496768479820" redirect="true"/>
+  <file name="index.html" crc="4133151532" seo="true" mt="1497966354626" redirect="true"/>
   <file name="01.html" crc="20256185" seo="true" mt="1496760083935" redirect="true"/>
-  <file name="02.html" crc="4064658325" seo="true" mt="1497965878021" redirect="true"/>
+  <file name="02.html" crc="468661794" seo="true" mt="1497966635720" redirect="true"/>
 </manifest>

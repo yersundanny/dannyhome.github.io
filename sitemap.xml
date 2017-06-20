@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yersun.com/index.html</loc>
-    <lastmod>2017-06-07</lastmod>
+    <lastmod>2017-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -36,9 +36,6 @@
       <image:loc>http://yersun.com/images/michael-prince-for-forbes1-17271.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yersun.com/images/main-qimg-57d9f2d9124f18b4efd7aad93da43002-c.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://yersun.com/images/shutterstock_294977321.jpg</image:loc>
     </image:image>
     <image:image>
@@ -61,12 +58,6 @@
     </image:image>
     <image:image>
       <image:loc>http://yersun.com/images/middle-crop-u827.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://yersun.com/images/lftfile.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://yersun.com/images/polshok.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://yersun.com/images/64641_page_1.jpg</image:loc>
